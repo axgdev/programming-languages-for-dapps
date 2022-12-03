@@ -4,7 +4,7 @@ Table of different blockchain technologies for building DApps and the supported 
 
 
 |Blockchain|TPS|Programming Languages for DApps|Keywords|
-|--|--|--|--|--|
+|--|--|--|--|
 |Solana|303.29|Rust, C++, JavaScript|High-performance, low-fee, proof-of-stake (PoS)|
 |Stellar|124.12|JavaScript, Go, Java, Ruby, Python|Open-source, payment network, Stellar Consensus Protocol (SCP)|
 |Binance Smart Chain|43.71|Solidity, JavaScript, TypeScript|DeFi, interoperable with Ethereum, Binance Chain|
