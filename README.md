@@ -10,7 +10,7 @@ Table of different blockchain technologies for building DApps and the supported 
 |Binance Smart Chain|43.71|Solidity, JavaScript, TypeScript|DeFi, interoperable with Ethereum, Binance Chain|
 |Polygon|34.91|Solidity, JavaScript, TypeScript|Modular framework, pre-built smart contracts, Ethereum compatibility|
 |Algorand|12.19|Java, Go, JavaScript|Fast, secure, pure proof-of-stake (PPoS)|
-|Ethereum|11.58|Solidity, Vyper, JavaScriptLeading DApp platform, smart contracts, Solidity|
+|Ethereum|11.58|Solidity, Vyper, JavaScript|Leading DApp platform, smart contracts, Solidity|
 |Arbitrum|7.23|Solidity, Vyper|Scalable, secure, layer-2 solution|
 |Fantom|5.78|Java, JavaScript|High-performance, decentralized, ledger technology|
 |Hedera|5.69|Java, JavaScript, Go, .NET|Public, distributed, ledger platform, hashgraph consensus|
